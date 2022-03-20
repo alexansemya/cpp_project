@@ -1,0 +1,8 @@
+#include "EntrySystem.h"
+#include "GeneralSystem.h"
+#include "Question.h"
+#include "Student.h"
+#include "StudentExamSystem.h"
+#include "Subject.h"
+#include "Teacher.h"
+#include "User.h"
